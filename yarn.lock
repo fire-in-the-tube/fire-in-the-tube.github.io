@@ -2,6 +2,6 @@
 # yarn lockfile v1
 
 
-bootstrap@^4.0:
+bootstrap@4.0.0-beta:
   version "4.0.0-beta"
   resolved "http://registry.npm.taobao.org/bootstrap/download/bootstrap-4.0.0-beta.tgz#dc5928175d2e71310bc668cf9e05a907211b72a6"
